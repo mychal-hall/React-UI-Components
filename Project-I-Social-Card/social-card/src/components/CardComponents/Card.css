@@ -1,1 +1,43 @@
 /* All styles for your Card Components live here */
+
+.cardContainer {
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  width: 505px;
+  margin-left: 60px;
+}
+
+.reactPicture {
+  width: 505px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.cardContent {
+  border-top: none;
+}
+
+.getStarted {
+  margin: 0px 11px;
+  padding: 8px 0px 5px 3px;
+  height: 15px;
+  font-size: 14px;
+}
+
+.cardSummary {
+  margin: 0px 11px;
+  padding: 0px 3px;
+  line-height: 18px;
+  font-size: 14px;
+}
+
+.reactLink {
+  margin: 5px 0px;
+}
+a {
+  text-decoration: none;
+  margin-left: 13px;
+  height: 15px;
+  font-size: 14px;
+  color: grey;
+}
