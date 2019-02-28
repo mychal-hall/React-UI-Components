@@ -1,21 +1,20 @@
 import React from "react";
 import "./Footer.css";
 
-
-function commentClicked(){
-    console.log('you clicked me');
+function commentClicked() {
+  console.log("you clicked me");
 }
 
-function shareClicked(){
-    console.log('you clicked me');
+function shareClicked() {
+  console.log("you clicked me");
 }
 
-function heartClicked(){
-    console.log('you clicked me');
+function heartClicked() {
+  console.log("you clicked me");
 }
 
-function mailClicked(){
-    console.log('you clicked me');
+function mailClicked() {
+  console.log("you clicked me");
 }
 
 function Footer() {
