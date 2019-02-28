@@ -1,9 +1,14 @@
 
 .footerBar {
-    border: 1px solid red;
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 45%;
+    margin-left: 60px;
 }
 
 i {
-    border: 1px solid blue;
+    font-size: 18px;
+    padding: 20px 0px;
+    cursor: pointer;
 }

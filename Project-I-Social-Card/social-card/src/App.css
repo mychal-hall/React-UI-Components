@@ -5,4 +5,5 @@
 
 .socialCard {
   width: 575px;
+  border-bottom: 1px solid lightgrey;
 }
