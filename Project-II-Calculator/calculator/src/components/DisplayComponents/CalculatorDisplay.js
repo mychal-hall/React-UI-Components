@@ -1,2 +1,10 @@
-import React from 'react';
-import './Display.css';
+import React from "react";
+import "./Display.css";
+
+function CalculatorDisplay() {
+  return <div className="display">
+  <h1 className="total">0</h1>
+  </div>;
+}
+
+export default CalculatorDisplay;
