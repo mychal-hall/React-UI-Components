@@ -35,7 +35,7 @@ const numberButtons = [
 function NumberButtons(props) {
   return (
     <div className="numberButtons">
-        <h1 className="clearButton">clear</h1>
+      <h1 className="clearButton">clear</h1>
       {numberButtons.map((action, index) => (
         <NumberButton numberbutton={action} key={index} />
       ))}
