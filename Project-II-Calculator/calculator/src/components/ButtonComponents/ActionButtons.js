@@ -22,7 +22,7 @@ const actionButtons = [
 
 function ActionButtons(props) {
   return (
-    <div>
+    <div className="actionButtons">
       {actionButtons.map((action, index) => (
         <ActionButton actionbutton={action} key={index} />
       ))}

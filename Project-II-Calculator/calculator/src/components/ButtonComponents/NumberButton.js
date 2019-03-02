@@ -2,7 +2,7 @@ import React from "react";
 import "./Button.css";
 
 const NumberButton = props => (
-  <div>
+  <div className="numberButton">
     <h1>{props.numberbutton.action}</h1>
   </div>
 );
