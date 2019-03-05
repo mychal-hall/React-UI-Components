@@ -1,0 +1,13 @@
+.footerBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 45%;
+  margin-left: 60px;
+}
+
+i {
+  font-size: 18px;
+  padding: 20px 0px;
+  cursor: pointer;
+}

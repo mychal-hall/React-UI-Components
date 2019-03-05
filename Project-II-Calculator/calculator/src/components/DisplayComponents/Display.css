@@ -1,0 +1,14 @@
+.display {
+    height: 125px;
+    background-color: #222222;
+}
+
+.total {
+    color: #fff;
+    margin: 0px;
+    padding-top: 28px;
+    padding-right: 10px;
+    font-weight: lighter;
+    text-align: right;
+    font-size: 70px;
+}
